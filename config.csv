@@ -1,0 +1,2 @@
+username,hostname,filesystem_path,log_path
+testuser,testhost,filesystem.zip,log.xml
